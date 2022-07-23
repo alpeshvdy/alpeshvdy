@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaScript Libraries
 - 💞️ I’m looking to collaborate on Anything Interesting
-- 📫 reach me
+- 📫 reach me at alpeshvdy@gmail.com
 
 <!---
 alpeshvdy/alpeshvdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
