@@ -1,6 +1,6 @@
 # Creating the progress map as a Markdown file
 
-progress_map_content = """# 🚀 Data Engineering Progress Map (SQL Server + PySpark)
+#🚀 Data Engineering Progress Map (SQL Server + PySpark)
 
 ## **📅 Week 1: Foundations of SQL Server & PySpark for Finance Data**
 
@@ -93,13 +93,3 @@ progress_map_content = """# 🚀 Data Engineering Progress Map (SQL Server + PyS
 ✅ Start with **Day 1: SQL Fundamentals for Finance**  
 ✅ Submit completed exercises for feedback  
 
-🚀 **Let's get started!**  
-"""
-
-# Save as a Markdown file
-file_path = "/mnt/data/week_1_progress_map.md"
-with open(file_path, "w") as file:
-    file.write(progress_map_content)
-
-# Provide download link
-file_path
