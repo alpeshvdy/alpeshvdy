@@ -1,6 +1,47 @@
 
 # SQL Notes
 
+
+- [SQL Notes](#sql-notes)
+  - [Expression vs Statement](#expression-vs-statement)
+  - [Filtering](#filtering)
+    - [Using Logical Operators](#using-logical-operators)
+    - [AND, OR, NOT](#and-or-not)
+    - [NOT BETWEEN](#not-between)
+    - [Another Way To Avoid Multiple ORs](#another-way-to-avoid-multiple-ors)
+    - [LIKE](#like)
+  - [ORDER BY](#order-by)
+  - [LIMIT and OFFSET](#limit-and-offset)
+  - [Aggregate Functions](#aggregate-functions)
+    - [GROUP BY](#group-by)
+    - [HAVING](#having)
+    - [DISTINCT](#distinct)
+  - [Math Functions](#math-functions)
+    - [ABS](#abs)
+    - [ROUND](#round)
+    - [CEIL (Rounds up) , FLOOR (Rounds down)](#ceil-rounds-up--floor-rounds-down)
+    - [POWER()](#power)
+    - [MOD() or % - remainder of division between two numbers.](#mod-or----remainder-of-division-between-two-numbers)
+    - [Divide Integers using CAST()](#divide-integers-using-cast)
+    - [Calculate Percentages](#calculate-percentages)
+  - [SQL NULL](#sql-null)
+    - [Refining Data with SQL COALESCE()](#refining-data-with-sql-coalesce)
+  - [CASE](#case)
+  - [JOINS](#joins)
+  - [Date-Time Functions](#date-time-functions)
+  - [CTE vs. SUBQUERY](#cte-vs-subquery)
+    - [CTEs](#ctes)
+    - [SubQueries](#subqueries)
+  - [Window Functions](#window-functions)
+    - [Ranking](#ranking)
+    - [LEAD \& LAG](#lead--lag)
+    - [UNION](#union)
+    - [INTERSECT](#intersect)
+    - [EXCEPT](#except)
+  - [Order of Execution](#order-of-execution)
+  - [STRING Functions](#string-functions)
+
+
 ## Expression vs Statement
 
 | Feature | Expression | Statement |
