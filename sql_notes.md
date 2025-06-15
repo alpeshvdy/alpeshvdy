@@ -102,7 +102,7 @@ Here's the 5 SQL Aggregate Functions – memorize them by heart:
 ### GROUP BY
 ```sql
 SELECT 
-	category, 
+    category, 
     SUM(spend)
 FROM product_spend
 GROUP BY category;
