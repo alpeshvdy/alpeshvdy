@@ -369,7 +369,11 @@ Summary:
 | FULL OUTER JOIN | Returns all rows when there is a match in either the left or the right table. If there is no match, NULL values are returned for columns from the table without a match. |
 
 
-- join with ven diagram
+![image](https://github.com/user-attachments/assets/689e4457-4c66-4999-b285-6d88d09cb30d)
+![image](https://github.com/user-attachments/assets/ab1c3a00-b8b0-46de-80d5-b42befc10fdc)
+
+![image](https://github.com/user-attachments/assets/c86cb21d-fe08-4c6c-a919-e27037e9c28c)
+![image](https://github.com/user-attachments/assets/ca467db4-0e60-49d2-930e-9016dee3204b)
 
 
 
